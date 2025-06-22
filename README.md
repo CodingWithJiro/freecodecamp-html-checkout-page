@@ -1,16 +1,26 @@
-# 📁 Checkout Page
+# 💻 Checkout Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Accessibility Ready](https://img.shields.io/badge/accessible-yes-brightgreen?style=for-the-badge)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Minimal CSS](https://img.shields.io/badge/Minimal%20CSS-lightgrey?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+![Beginner Project](https://img.shields.io/badge/Beginner%20Project-25D366?style=for-the-badge)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
+![Accessible](https://img.shields.io/badge/Accessibility-A11Y-0052cc?style=for-the-badge)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7ef97ff-bcab-423f-9380-8ecab295f87b/deploy-status)](https://sample-projects-html5.netlify.app/pages/build%20a%20checkout%20page/build%20a%20checkout%20page)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bec3d5e-c2db-4e23-8e94-be73fd563e0e/deploy-status)](https://checkout-page-fcc-jiro.netlify.app/)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
 ## ℹ️ A Simple HTML Checkout Page
 
 ![Screenshot of the project](./screenshot.png)
 
-This website displays a simple checkout page for PS5.
+This website displays a simple checkout page for PlayStation5. Created as part of the [freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/) HTML5 free course.
 
 ---
 
@@ -43,21 +53,23 @@ This project is a beginner-level exercise that uses HTML5 and very minimal CSS3 
 ## 🛠️ Tech Used
 
 - HTML5
-- CSS3
+- CSS3 (minimal)
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this project folder
-3. Open `Build a Checkout Page.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://sample-projects-html5.netlify.app/pages/build%20a%20checkout%20page/build%20a%20checkout%20page)
+Or you can check out the 👉 [live website here](https://checkout-page-fcc-jiro.netlify.app/)
 
 ---
 
@@ -67,4 +79,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **April 2025**
 
-📚 Journey: **1st** month of learning _frontend web development_.
+📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
