@@ -1,4 +1,4 @@
-# 💻 Checkout Page
+# Checkout Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,30 +17,30 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-checkout-page&left_text=repo%20views)
 
-## ℹ️ A Simple HTML Checkout Page
+## A Simple HTML Checkout Page
 
 ![Screenshot of the project](./screenshot.png)
 
-This website displays a simple checkout page for PlayStation5. Created as part of the [freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/) HTML5 free course.
+This website displays a simple checkout page for PlayStation5. Created as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** HTML5 free course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project is a beginner-level exercise that uses HTML5 and very minimal CSS3 to mimic a checkout page in an ecommerce website. It demonstrates proper use of table-related elements like `<thead>`, `<tbody>`, and `<tfoot>` form elements like `<input>`, `<label>`, and `<fieldset>`.
 
 ---
 
-## ✨ Features
+## Features
 
 - Tabular data structuring (`<table>`, `<thead>`, `<tbody>`, `<tfoot>`)
 - Proper use of HTML `<figure>` and `<figcaption>` elements
 - Correct headings hierarchy `<h1>`, `<h2>`, ...
-- Form structuring which submits to [httpbin.org](https://httpbin.org/post)
+- Form structuring which submits to **[httpbin.org](https://httpbin.org/post)**
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to design a semantic and accessible checkout page
 - Creating structured data tables with advanced use of `<thead>`, `rowspan`, `tfoot`, and `scope`
@@ -51,7 +51,7 @@ This project is a beginner-level exercise that uses HTML5 and very minimal CSS3 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3 (minimal)
@@ -61,23 +61,23 @@ This project is a beginner-level exercise that uses HTML5 and very minimal CSS3 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://checkout-page-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://checkout-page-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
+Journey: **1<sup>st</sup>** month of learning _frontend web development_.
